@@ -1,0 +1,2 @@
+include README.md
+recursive-include glyphsync_nodes *.py
